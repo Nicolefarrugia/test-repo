@@ -1,13 +1,14 @@
 p {
-  color: black
+  color: blue
 }
 
 h1 {
   font-size: 60px;
+  text-decoration: underline;
 }
 
 #server-side-intro {
-  color: blue;
+  color: orange;
 }
 .my-brand {
   font-size:  18px;
